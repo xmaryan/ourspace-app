@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">ourspace</string>
     <string name="hello_text">Hello OurSpace!</string>
-    <string name="button_clicked">Button Clicked!</string>
+    <string name="button_clicked">Button Clicked!</string>\
+    <string name="app_logo_desc"> App Logo </string>
+    <string name="welcome_to_our_space">Welcome to Our-Space!</string>
 </resources>

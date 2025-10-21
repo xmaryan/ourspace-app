@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- Default app theme -->
+        <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <item name="colorPrimary">@color/purple_500</item>
+            <item name="colorPrimaryDark">@color/purple_700</item>
+            <item name="colorAccent">@color/teal_200</item>
+        </style>
+
+        <!-- Splash screen theme -->
+        <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+            <item name="android:windowBackground">@color/white</item>
+        </style>
+</resources>
